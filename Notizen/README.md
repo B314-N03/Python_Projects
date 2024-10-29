@@ -35,6 +35,7 @@ Führe das Skript mit folgendem Befehl aus:
 python main.py
 ```
 
+
 Das Menü wird angezeigt und ermöglicht die Auswahl der Befehle, um mit den Notizen zu arbeiten. Verwende die Pfeiltasten, um durch die Optionen zu navigieren, und drücke **Enter**, um eine Option auszuwählen.
 
 ### Menüoptionen:
@@ -45,6 +46,13 @@ Das Menü wird angezeigt und ermöglicht die Auswahl der Befehle, um mit den Not
 4. **Notiz anzeigen**: Zeigt den Inhalt einer ausgewählten Notiz an.
 5. **Notiz löschen**: Entfernt die ausgewählte Notiz vollständig.
 6. **Exit**: Beendet das Programm.
+   
+> [!Note]
+> ## Verlassen des Editors
+> Um den Bearbeitungsmodus zu verlassen, gib während des Bearbeitens einer Notiz einfach das Schlüsselwort `quit` ein und drücke Enter. Dadurch werden alle bisherigen Änderungen gespeichert, und du kehrst ins Hauptmenü zurück.
+> Falls du das Programm während der Bearbeitung direkt beenden möchtest, gib `exit` ein und drücke Enter.
+
+
 
 ## Besonderheiten für Unix und Windows
 
